@@ -1,9 +1,11 @@
 MAS 500 Module 3- Homework 1 (Advanced)
 ===================================
 
-These are a few examples to support a discussion about programming approaches.  They all
-just load up a CSV and print out some data from it.  The point is to demonstrate various
-approaches to programming in a small way.
+Functionalities
+* use BeautifulSoup to extract more detailed election data from online resources
+* this homework uses http://www.archives.gov/federal-register/electoral-college/2012/popular-vote.html
+* add the ability to export it to CSV and JSON
+
 
 Installation
 ------------
