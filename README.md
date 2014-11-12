@@ -1,4 +1,4 @@
-Programming Style Examples (Python)
+MAS 500 Module 3- Homework 1 (Advanced)
 ===================================
 
 These are a few examples to support a discussion about programming approaches.  They all
@@ -8,20 +8,12 @@ approaches to programming in a small way.
 Installation
 ------------
 
-Make sure you have Python 2.6 or 2.7 installed.  Might work with Python 3 (I haven't tried it).
+Make sure you have beautifulsoup4 installed.  
 
 Use
 ---
 
-Run each scripts like this:
+Run the script like this:
 ```
-python imperative.py
+python tsBS.py
 ```
-
-The examples included show each of these styles:
-* imperative
-* procedural
-* object-oriented
-* event-driven (not that well)
-* functional
-* test-driven
