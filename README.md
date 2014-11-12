@@ -15,5 +15,5 @@ Use
 
 Run the script like this:
 ```
-python tsBS.py
+python tryBS.py
 ```
