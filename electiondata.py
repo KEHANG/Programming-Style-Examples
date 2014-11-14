@@ -44,7 +44,7 @@ class ElectionResults:
         self.totalVotes[firstCandidate] = firstTotVts
         self.totalVotes[secondCandidate] = secondTotVts
 
-class ElectionColletion(object):
+class ElectionCollection(object):
     def __init__(self, url):
         self.url = url
 
@@ -87,10 +87,13 @@ class ElectionColletion(object):
                 rowHead = row.find('th')
                 file.write('\t"' + colHeads[0] + '": ' + '"' + rowHead.text + '",\n')
 
-                rowCells = row.findAll('td')
+                rowCells_raw = row.findAll('td')
+                rowCells_changeDash = [cell.text.replace('-','0') for cell in rowCells_raw]
+                rowCells = [cell.replace('*','') for cell in rowCells_changeDash]
+
                 for i in range(len(rowCells)-1):
-                    file.write('\t"' + colHeads[i+1] + '": ' + rowCells[i].text + ',\n')
-                file.write('\t"' + colHeads[-1] + '": ' + rowCells[-1].text + '\n')
+                    file.write('\t"' + colHeads[i+1] + '": ' + rowCells[i] + ',\n')
+                file.write('\t"' + colHeads[-1] + '": ' + rowCells[-1] + '\n')
                 file.write(' },\n')
 
             # write final row
@@ -99,8 +102,11 @@ class ElectionColletion(object):
             rowHead = row.find('th')
             file.write('\t"' + colHeads[0] + '": ' + '"' + rowHead.text + '",\n')
 
-            rowCells = row.findAll('td')
+            rowCells_raw = row.findAll('td')
+            rowCells_changeDash = [cell.text.replace('-','0') for cell in rowCells_raw]
+            rowCells = [cell.replace('*','') for cell in rowCells_changeDash]
+
             for i in range(len(rowCells)-1):
-                file.write('\t"' + colHeads[i+1] + '": ' + rowCells[i].text + ',\n')
-            file.write('\t"' + colHeads[-1] + '": ' + rowCells[-1].text + '\n')
+                file.write('\t"' + colHeads[i+1] + '": ' + rowCells[i] + ',\n')
+            file.write('\t"' + colHeads[-1] + '": ' + rowCells[-1] + '\n')
             file.write(' } ]')

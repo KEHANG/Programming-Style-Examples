@@ -13,7 +13,7 @@
 	"Republican Party(Romney / Ryan)": 164676,
 	"Libertarian Party(Johnson / Gray)": 7392,
 	"Green Party(Stein / Honkala*)": 2917,
-	"Others      (all other listed partiesand candidates)": -,
+	"Others      (all other listed partiesand candidates)": 0,
 	"Total Votes": 297625
  },
  {
@@ -93,8 +93,8 @@
 	"Democratic Party(Obama / Biden)": 1773827,
 	"Republican Party(Romney / Ryan)": 2078688,
 	"Libertarian Party(Johnson / Gray)": 45324,
-	"Green Party(Stein / Honkala*)": -,
-	"Others      (all other listed partiesand candidates)": -,
+	"Green Party(Stein / Honkala*)": 0,
+	"Others      (all other listed partiesand candidates)": 0,
 	"Total Votes": 3897839
  },
  {
@@ -103,7 +103,7 @@
 	"Republican Party(Romney / Ryan)": 121015,
 	"Libertarian Party(Johnson / Gray)": 3840,
 	"Green Party(Stein / Honkala*)": 3184,
-	"Others      (all other listed partiesand candidates)": -,
+	"Others      (all other listed partiesand candidates)": 0,
 	"Total Votes": 434697
  },
  {
@@ -120,8 +120,8 @@
 	"Democratic Party(Obama / Biden)": 3019512,
 	"Republican Party(Romney / Ryan)": 2135216,
 	"Libertarian Party(Johnson / Gray)": 56229,
-	"Green Party(Stein / Honkala*)": 30222*,
-	"Others      (all other listed partiesand candidates)": -,
+	"Green Party(Stein / Honkala*)": 30222,
+	"Others      (all other listed partiesand candidates)": 0,
 	"Total Votes": 5241179
  },
  {
@@ -129,7 +129,7 @@
 	"Democratic Party(Obama / Biden)": 1152887,
 	"Republican Party(Romney / Ryan)": 1420543,
 	"Libertarian Party(Johnson / Gray)": 50111,
-	"Green Party(Stein / Honkala*)": 625*,
+	"Green Party(Stein / Honkala*)": 625,
 	"Others      (all other listed partiesand candidates)": 368,
 	"Total Votes": 2624534
  },
@@ -147,7 +147,7 @@
 	"Democratic Party(Obama / Biden)": 440726,
 	"Republican Party(Romney / Ryan)": 692634,
 	"Libertarian Party(Johnson / Gray)": 20456,
-	"Green Party(Stein / Honkala*)": -,
+	"Green Party(Stein / Honkala*)": 0,
 	"Others      (all other listed partiesand candidates)": 5017,
 	"Total Votes": 1158833
  },
@@ -175,7 +175,7 @@
 	"Republican Party(Romney / Ryan)": 292276,
 	"Libertarian Party(Johnson / Gray)": 9352,
 	"Green Party(Stein / Honkala*)": 8119,
-	"Others      (all other listed partiesand candidates)": -,
+	"Others      (all other listed partiesand candidates)": 0,
 	"Total Votes": 711053
  },
  {
@@ -193,7 +193,7 @@
 	"Republican Party(Romney / Ryan)": 1188314,
 	"Libertarian Party(Johnson / Gray)": 30920,
 	"Green Party(Stein / Honkala*)": 20691,
-	"Others      (all other listed partiesand candidates)": -,
+	"Others      (all other listed partiesand candidates)": 0,
 	"Total Votes": 3161215
  },
  {
@@ -228,7 +228,7 @@
 	"Democratic Party(Obama / Biden)": 1223796,
 	"Republican Party(Romney / Ryan)": 1482440,
 	"Libertarian Party(Johnson / Gray)": 43151,
-	"Green Party(Stein / Honkala*)": -,
+	"Green Party(Stein / Honkala*)": 0,
 	"Others      (all other listed partiesand candidates)": 7936,
 	"Total Votes": 2757323
  },
@@ -237,8 +237,8 @@
 	"Democratic Party(Obama / Biden)": 201839,
 	"Republican Party(Romney / Ryan)": 267928,
 	"Libertarian Party(Johnson / Gray)": 14165,
-	"Green Party(Stein / Honkala*)": -,
-	"Others      (all other listed partiesand candidates)": -,
+	"Green Party(Stein / Honkala*)": 0,
+	"Others      (all other listed partiesand candidates)": 0,
 	"Total Votes": 483932
  },
  {
@@ -246,7 +246,7 @@
 	"Democratic Party(Obama / Biden)": 302081,
 	"Republican Party(Romney / Ryan)": 475064,
 	"Libertarian Party(Johnson / Gray)": 11109,
-	"Green Party(Stein / Honkala*)": -,
+	"Green Party(Stein / Honkala*)": 0,
 	"Others      (all other listed partiesand candidates)": 2408,
 	"Total Votes": 790662
  },
@@ -255,7 +255,7 @@
 	"Democratic Party(Obama / Biden)": 531373,
 	"Republican Party(Romney / Ryan)": 463567,
 	"Libertarian Party(Johnson / Gray)": 10968,
-	"Green Party(Stein / Honkala*)": -,
+	"Green Party(Stein / Honkala*)": 0,
 	"Others      (all other listed partiesand candidates)": 3240,
 	"Total Votes": 1009148
  },
@@ -264,7 +264,7 @@
 	"Democratic Party(Obama / Biden)": 369561,
 	"Republican Party(Romney / Ryan)": 329918,
 	"Libertarian Party(Johnson / Gray)": 8212,
-	"Green Party(Stein / Honkala*)": -,
+	"Green Party(Stein / Honkala*)": 0,
 	"Others      (all other listed partiesand candidates)": 708,
 	"Total Votes": 708399
  },
@@ -300,7 +300,7 @@
 	"Democratic Party(Obama / Biden)": 2178391,
 	"Republican Party(Romney / Ryan)": 2270395,
 	"Libertarian Party(Johnson / Gray)": 44515,
-	"Green Party(Stein / Honkala*)": -,
+	"Green Party(Stein / Honkala*)": 0,
 	"Others      (all other listed partiesand candidates)": 619,
 	"Total Votes": 4493920
  },
@@ -326,9 +326,9 @@
 	"State": "OK",
 	"Democratic Party(Obama / Biden)": 443547,
 	"Republican Party(Romney / Ryan)": 891325,
-	"Libertarian Party(Johnson / Gray)": -,
-	"Green Party(Stein / Honkala*)": -,
-	"Others      (all other listed partiesand candidates)": -,
+	"Libertarian Party(Johnson / Gray)": 0,
+	"Green Party(Stein / Honkala*)": 0,
+	"Others      (all other listed partiesand candidates)": 0,
 	"Total Votes": 1334872
  },
  {
@@ -346,7 +346,7 @@
 	"Republican Party(Romney / Ryan)": 2680434,
 	"Libertarian Party(Johnson / Gray)": 49441,
 	"Green Party(Stein / Honkala*)": 21341,
-	"Others      (all other listed partiesand candidates)": -,
+	"Others      (all other listed partiesand candidates)": 0,
 	"Total Votes": 5741490
  },
  {
@@ -372,7 +372,7 @@
 	"Democratic Party(Obama / Biden)": 145039,
 	"Republican Party(Romney / Ryan)": 210610,
 	"Libertarian Party(Johnson / Gray)": 5795,
-	"Green Party(Stein / Honkala*)": -,
+	"Green Party(Stein / Honkala*)": 0,
 	"Others      (all other listed partiesand candidates)": 2371,
 	"Total Votes": 363815
  },
@@ -408,7 +408,7 @@
 	"Democratic Party(Obama / Biden)": 199239,
 	"Republican Party(Romney / Ryan)": 92698,
 	"Libertarian Party(Johnson / Gray)": 3487,
-	"Green Party(Stein / Honkala*)": -,
+	"Green Party(Stein / Honkala*)": 0,
 	"Others      (all other listed partiesand candidates)": 3866,
 	"Total Votes": 299290
  },
@@ -444,7 +444,7 @@
 	"Democratic Party(Obama / Biden)": 1620985,
 	"Republican Party(Romney / Ryan)": 1407966,
 	"Libertarian Party(Johnson / Gray)": 20439,
-	"Green Party(Stein / Honkala*)": 7665*,
+	"Green Party(Stein / Honkala*)": 7665,
 	"Others      (all other listed partiesand candidates)": 11379,
 	"Total Votes": 3071434
  },
@@ -453,7 +453,7 @@
 	"Democratic Party(Obama / Biden)": 69286,
 	"Republican Party(Romney / Ryan)": 170962,
 	"Libertarian Party(Johnson / Gray)": 5326,
-	"Green Party(Stein / Honkala*)": -,
+	"Green Party(Stein / Honkala*)": 0,
 	"Others      (all other listed partiesand candidates)": 3487,
 	"Total Votes": 249061
  },
